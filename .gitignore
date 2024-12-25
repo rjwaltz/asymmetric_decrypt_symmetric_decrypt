@@ -1,0 +1,5 @@
+/2024_output/*
+/**/__pycache__/
+/build/
+/dist/
+/*.spec
